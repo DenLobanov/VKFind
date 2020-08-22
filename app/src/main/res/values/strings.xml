@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VKFind</string>
+    <string name="id">enter contacts here</string>
+    <string name="search">Search!</string>
+    <string name="result">Result</string>
+    <string name="error_message">Error</string>
+</resources>
